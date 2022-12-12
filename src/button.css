@@ -1,0 +1,76 @@
+btn1{
+    justify-content: center;
+    background: #ff0000;
+    padding: 3px 15px;
+    margin-left:300px;
+  border-inline-end-color: blueviolet;
+  font-size: 40px;
+  font-family: sans-serif;
+  border-radius: 4px ;
+  margin-top: 300px;
+  
+  
+  
+  
+  
+  }
+  .btn2{
+    background:green;
+    padding: 30px 60px;
+    margin-right:100px;
+    margin-bottom: 250px;
+    font-size: 40px;
+    border-radius: 20px;
+    margin-left: 50px;
+  
+    
+    
+  }
+  .btn3{
+    background:yellow;
+    padding: 30px 60px;
+    margin-right: 40px;
+    margin-bottom: 250px;
+  
+  border-inline-end-color: blueviolet;
+  font-size: 40px;
+  font-style: italic;
+  border-radius: 20px ;
+  
+  
+  }
+  .btn4{
+    background:#ffa500;
+    padding: 30px 60px;
+    margin-bottom: 250px;
+    margin-right: 40px;
+    border-radius: 20px;
+    font-size: 40px;
+    
+    
+  
+  
+  }
+  button:hover{
+    background-color: antiquewhite;
+    
+  }
+  
+  
+  
+  .btn1:active{
+    background-color: aqua;
+    
+  }
+  .btn2:active{
+    background-color:black;
+    
+  }
+  .btn3:active{
+    background-color: brown;
+    
+  }
+  .btn4:active{
+    background-color :blueviolet;
+    
+  }
